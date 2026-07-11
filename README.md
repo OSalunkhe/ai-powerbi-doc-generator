@@ -66,7 +66,7 @@ streamlit run app.py
 
 Upload any `.pbix` file in the browser and generate documentation live, one measure at a time, in an expandable panel.
 
-<!-- Add a screenshot or short GIF of the Streamlit app here once you have one -->
+<video controls src="https://github.com/user-attachments/assets/42cd77b1-f81d-4bf5-ab8b-1e16732e5b0f" title="Demo"></video>
 
 ## Evaluation
 
