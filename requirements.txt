@@ -2,3 +2,4 @@ pbixray
 anthropic
 streamlit
 python-dotenv
+pandas

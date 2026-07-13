@@ -2,3 +2,6 @@ venv/
 .env
 __pycache__/
 *.pyc
+model_data.db
+model.pbix
+streamlit-app-2026-07-11-22-13-16.webm
