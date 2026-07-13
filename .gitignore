@@ -5,3 +5,4 @@ __pycache__/
 model_data.db
 model.pbix
 *.webm
+*.mp4
