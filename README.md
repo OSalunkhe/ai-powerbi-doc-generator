@@ -67,7 +67,7 @@ streamlit run app.py
 
 Upload any `.pbix` file in the browser and generate documentation live, one measure at a time, in an expandable panel.
 
-<video controls src="https://github.com/user-attachments/assets/708815ab-a59a-468c-a128-24a64e66b5b5" title="Part 1 demo"></video>
+![Part 1 demo](https://github.com/OSalunkhe/ai-powerbi-doc-generator/issues/4)
 
 ### Part 1 evaluation
 
@@ -115,7 +115,7 @@ python ask_question.py        # ask a single question from the terminal
 streamlit run nl_query_app.py # interactive version
 ```
 
-<video controls src="https://github.com/user-attachments/assets/87916e55-779e-4b6c-8ee9-daa9363e3893" title="Part 2 demo"></video>
+![Part 2 demo](https://github.com/OSalunkhe/ai-powerbi-doc-generator/issues/3)
 
 ### Part 2 evaluation
 
